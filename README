@@ -1,0 +1,6 @@
+* Thu Jan 21 00:44:45 CET 2010
+		httpd.conf : Apache config file
+		php.ini = PHP config file
+		rc.conf = Archlinux config file
+		rc.lua = Awesome config file
+		XTerm = URXVT settings
